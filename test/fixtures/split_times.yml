@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  final_time: MyString
+  split: MyString
+
+two:
+  final_time: MyString
+  split: MyString
